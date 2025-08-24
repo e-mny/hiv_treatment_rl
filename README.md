@@ -1,5 +1,7 @@
 # Optimizing HIV Treatment with Reinforcement Learning
 
+Restarting a project that my friends and I did for a hackathon, but seeing if there is anything we could've done better. Old project can be found [here](https://github.com/e-mny/mlda_docdiagx)
+
 ## Data
 
 This dataset is designed to support the Health Data Analytics (HDAT) courses at the University of New South Wales (UNSW), offering students hands-on experience with synthetic datasets that closely mimic real-world scenarios.
